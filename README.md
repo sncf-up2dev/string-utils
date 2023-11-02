@@ -27,7 +27,7 @@ modification d'une de ces méthodes.
 L'[API stream][1] propose des outils pour traiter les données d'une manière déclarative en s'appuyant sur
 le paradigme de programmation fonctionnelle.
 
-Par exemple, pour obtenir une liste de la représentation textuelle de tous les objets non nul dans une liste
+Par exemple, pour obtenir une liste des représentations textuelles de tous les objets non nul dans une liste
 `objects`, on pourrait faire le traitement suivant d'une manière impérative.
 
 ```java
